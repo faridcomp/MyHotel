@@ -1,0 +1,50 @@
+2022-04-04 09:32:53,757 - logger_file -INFO - Login to HotelStarted
+2022-04-04 09:32:53,757 [main] INFO logger_file - Login to HotelStarted
+2022-04-04 09:33:07,149 - logger_file -INFO - Login to Hotel UNDEFINED
+2022-04-04 09:33:07,149 [main] INFO logger_file - Login to Hotel UNDEFINED
+2022-04-04 09:37:44,509 - logger_file -INFO - Login to HotelStarted
+2022-04-04 09:37:44,509 [main] INFO logger_file - Login to HotelStarted
+2022-04-04 09:37:52,714 - logger_file -INFO - Login to Hotel PASSED
+2022-04-04 09:37:52,714 [main] INFO logger_file - Login to Hotel PASSED
+2022-04-04 09:44:30,863 - logger_file -INFO - Login to HotelStarted
+2022-04-04 09:44:30,863 [main] INFO logger_file - Login to HotelStarted
+2022-04-04 09:44:38,507 - logger_file -INFO - Login to Hotel PASSED
+2022-04-04 09:44:38,507 [main] INFO logger_file - Login to Hotel PASSED
+2022-04-04 10:33:30,440 - logger_file -INFO - Login to HotelStarted
+2022-04-04 10:33:30,440 [main] INFO logger_file - Login to HotelStarted
+2022-04-04 10:33:39,797 - logger_file -INFO - Hotel is equal to Hotel
+2022-04-04 10:33:39,797 [main] INFO logger_file - Hotel is equal to Hotel
+2022-04-04 10:33:39,816 - logger_file -INFO - Login to Hotel PASSED
+2022-04-04 10:33:39,816 [main] INFO logger_file - Login to Hotel PASSED
+2022-04-04 10:41:57,477 - logger_file -INFO - Login to HotelStarted
+2022-04-04 10:41:57,477 [main] INFO logger_file - Login to HotelStarted
+2022-04-04 10:42:06,480 - logger_file -INFO - Hotel is equal to Hotel
+2022-04-04 10:42:06,480 [main] INFO logger_file - Hotel is equal to Hotel
+2022-04-04 10:42:07,449 - logger_file -INFO - user clicked on Signin
+2022-04-04 10:42:07,449 [main] INFO logger_file - user clicked on Signin
+2022-04-04 10:42:07,660 - logger_file -INFO - Login to Hotel PASSED
+2022-04-04 10:42:07,660 [main] INFO logger_file - Login to Hotel PASSED
+2022-04-04 10:42:42,773 - logger_file -INFO - Login to HotelStarted
+2022-04-04 10:42:42,773 [main] INFO logger_file - Login to HotelStarted
+2022-04-04 10:42:50,337 - logger_file -INFO - Hotel is equal to Hotel
+2022-04-04 10:42:50,337 [main] INFO logger_file - Hotel is equal to Hotel
+2022-04-04 10:42:51,186 - logger_file -INFO - user clicked on Signin
+2022-04-04 10:42:51,186 [main] INFO logger_file - user clicked on Signin
+2022-04-04 10:42:51,355 - logger_file -INFO - Login to Hotel PASSED
+2022-04-04 10:42:51,355 [main] INFO logger_file - Login to Hotel PASSED
+2022-04-04 10:46:43,907 - logger_file -INFO - Login to HotelStarted
+2022-04-04 10:46:43,907 [main] INFO logger_file - Login to HotelStarted
+2022-04-04 10:46:52,124 - logger_file -INFO - Hotel is equal to Hotel
+2022-04-04 10:46:52,124 [main] INFO logger_file - Hotel is equal to Hotel
+2022-04-04 10:46:53,062 - logger_file -INFO - user clicked on Signin
+2022-04-04 10:46:53,062 [main] INFO logger_file - user clicked on Signin
+2022-04-04 10:46:53,232 - logger_file -INFO - Login to Hotel PASSED
+2022-04-04 10:46:53,232 [main] INFO logger_file - Login to Hotel PASSED
+2022-04-04 10:53:53,102 - logger_file -INFO - Login to HotelStarted
+2022-04-04 10:53:53,102 [main] INFO logger_file - Login to HotelStarted
+2022-04-04 10:54:01,359 - logger_file -INFO - Hotel is equal to Hotel
+2022-04-04 10:54:01,359 [main] INFO logger_file - Hotel is equal to Hotel
+2022-04-04 10:54:02,242 - logger_file -INFO - user clicked on Signin
+2022-04-04 10:54:02,242 [main] INFO logger_file - user clicked on Signin
+2022-04-04 10:54:03,026 - logger_file -INFO - Login to Hotel PASSED
+2022-04-04 10:54:03,026 [main] INFO logger_file - Login to Hotel PASSED
